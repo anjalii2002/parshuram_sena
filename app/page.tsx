@@ -16,8 +16,8 @@ export default function HomePage() {
                 <span className="text-primary-foreground font-serif font-black text-lg">ॐ</span>
               </div>
               <div>
-                <h1 className="font-serif font-black text-xl text-primary">Brahman Samaj</h1>
-                <p className="text-sm text-muted-foreground">Parshuram Sena</p>
+                <h1 className="font-serif font-black text-xl text-primary">Parshuram Sena Madhya Pradesh</h1>
+                <p className="text-sm text-muted-foreground">Brahmin Samaj</p>
               </div>
             </div>
             <nav className="hidden md:flex items-center gap-6">
